@@ -2,7 +2,7 @@
 
 ## To run on Binder (no setup required):
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intermine/interminer-workshop/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cjwomack/interminer-workshop/master)
 
 ## To run locally, we assume you have:
 
